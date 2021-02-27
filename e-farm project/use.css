@@ -1,0 +1,10 @@
+p {
+  font-family: Arial;
+  font-size: 50px;
+  background-color: cadetblue;
+  border: chartreuse 100px solid;
+}
+#farmer {
+  position: absolute;
+  opacity: 0.3;
+}
